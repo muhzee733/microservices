@@ -1,0 +1,10 @@
+{
+  "npmClient": "yarn",
+  "packages": [
+    "core",
+    "main",
+    "team-a",
+    "team-b"
+  ],
+  "version": "1.0.0"
+}
